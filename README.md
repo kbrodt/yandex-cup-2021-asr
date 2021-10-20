@@ -16,7 +16,7 @@ sh run.sh
 
 ### Inference
 
-Download trained [models]()
+Download trained [models](https://github.com/kbrodt/yandex-cup-2021-asr/releases/download/0.1/chkps.zip)
 
 ```bash
 python3 test.sh
